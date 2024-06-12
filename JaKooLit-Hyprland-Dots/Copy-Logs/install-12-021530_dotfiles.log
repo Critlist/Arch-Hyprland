@@ -1,0 +1,12 @@
+[33m[NOTE](B[m kb_layout us configured in settings.  
+Simple sddm 2 exists. Editing to 12H format
+12H format set to SDDM theme successfully.
+You chose ≤ 1080p resolution for better Rofi appearance.
+[33m[NOTE](B[m Wallpapers downloaded successfully.
+[33m[NOTE](B[m Wallpapers copied successfully.
+error: unexpected argument '/home/mjh/.config/hypr/wallpaper_effects/.wallpaper_modified' found
+
+Usage: wallust [OPTIONS] <FILE>
+       wallust <COMMAND>
+
+For more information, try '--help'.
